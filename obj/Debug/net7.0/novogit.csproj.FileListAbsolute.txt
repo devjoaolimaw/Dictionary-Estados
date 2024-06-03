@@ -1,0 +1,14 @@
+c:\dev\novogit\bin\Debug\net7.0\novogit.exe
+C:\dev\novogit\bin\Debug\net7.0\novogit.deps.json
+C:\dev\novogit\bin\Debug\net7.0\novogit.runtimeconfig.json
+c:\dev\novogit\bin\Debug\net7.0\novogit.dll
+c:\dev\novogit\bin\Debug\net7.0\novogit.pdb
+c:\dev\novogit\obj\Debug\net7.0\novogit.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\novogit\obj\Debug\net7.0\novogit.AssemblyInfoInputs.cache
+c:\dev\novogit\obj\Debug\net7.0\novogit.AssemblyInfo.cs
+c:\dev\novogit\obj\Debug\net7.0\novogit.csproj.CoreCompileInputs.cache
+c:\dev\novogit\obj\Debug\net7.0\novogit.dll
+c:\dev\novogit\obj\Debug\net7.0\refint\novogit.dll
+c:\dev\novogit\obj\Debug\net7.0\novogit.pdb
+C:\dev\novogit\obj\Debug\net7.0\novogit.genruntimeconfig.cache
+C:\dev\novogit\obj\Debug\net7.0\ref\novogit.dll
